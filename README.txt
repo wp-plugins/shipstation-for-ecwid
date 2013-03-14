@@ -22,7 +22,7 @@ ShipStation is a web-based shipping solution that streamlines the order fulfillm
 1. Within WP Admin, Go to Plugins > Add New > Upload
 1. Select the plugin zip file from your local computer
 1. Click Install Now Button
-1. Once install is complete, Click “Activate Plugin” link
+1. Once install is complete, Click "Activate Plugin" link
 
 == Frequently asked questions ==
 
@@ -89,8 +89,8 @@ Write down the following values from ShipStation for Eciwd screen
 **Create account at ShipStation.com**
 1. Login to your account
 1. Visit Settings Page
-1. Click Stores link. Click ‘Add a New Store..’ button
-Choose ‘Ecwid‘ button from the available ‘Add Store’ list
+1. Click Stores link. Click "Add a New Store.." button
+Choose 'Ecwid' button from the available 'Add Store' list
 Setup Store at ShipStation
 
 **Fill out the available fields as follows:**
