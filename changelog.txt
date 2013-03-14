@@ -1,4 +1,7 @@
-* ShipStation for Ecwid ***
+** ShipStation for Ecwid ***
+
+2013.03.14 - version 2.0
+ * Initial release to Wordpress.org
 
 2013.03.05 - version 2.0
  * Migrated to auth_key implementation
