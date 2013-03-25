@@ -12,7 +12,7 @@ The plugin helps store owners significantly speed up the shipping process by off
 
 == Description ==
 
-This plugin provides a bridge between your Ecwid Store and ShipStation. Your Ecwid store does not need to be running within a WordPress site, however, you do need a WordPress installation (somewhere) to run this plugin. Possible options include a subdomain or a sub-directory on your existing server.
+This plugin provides a bridge between your Ecwid Store and ShipStation. Your Ecwid store does not need to be running within a WordPress site, however, you do need a WordPress installation (somewhere) to run this plugin. Possible options include: a subdomain or a sub-directory on your existing server, or a WordPress install on a totally separate server.
 
 ShipStation is a web-based shipping solution that streamlines the order fulfillment process for online retailers. With real-time integrations into popular marketplaces and shopping cart platforms, ShipStation handles everything from order import and batch label creation to customer communication. Advanced customization features allow ShipStation to fit businesses with any number of users or locations.
 
