@@ -160,7 +160,7 @@ function ecwid_ss_configure() {
 			<font color=red>(<?php _e( 'For use on webservers which run PHP in CGI mode. Add "?auth_key=value" to test url', $domain ) ?>)</font><br>
 			<b><?php _e( 'Authentication Key', $domain ) ?></b>:
 				<input name="options[auth_key]" size=30 type="text" value="<?php echo $auth_key; ?>" />
-				<i><font color=gray>Enter long, random string here.</font></i>
+				<i><font color=gray>Enter 'Auth Key' value from the ShipStation Ecwid Setup screen within ShipStation.com. </font></i>
 			<br>
 			<hr>
 			<b><font color=blue><?php _e( 'Ecwid', $domain ) ?></font></b> <strong><?php _e( 'store_id', $domain ) ?>: </strong><input  name="options[store_id]" size=20 type="text" value="<?php echo $store_id; ?>" />
