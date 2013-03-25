@@ -135,7 +135,7 @@ function ecwid_ss_configure() {
 	// html form bellow
 ?>
 <div class="wrap">
-	<h2><?php _e( 'ShipStation for Eciwd Bridge', $domain ) ?></h2>
+	<h2><?php _e( 'ShipStation for Ecwid Bridge', $domain ) ?></h2>
 	<p><?php _e( 'Plugin Features', $domain ) ?>:<br>
 	<?php _e( '1) Exports orders ready for shipment to ShipStation. Multiple Payment/Fulfillment statuses may be chosen to export to ShipStation', $domain ) ?><br>
 	<?php _e( '2) Updates orders inside Ecwid with shipping and tracking information.', $domain ) ?><br>
