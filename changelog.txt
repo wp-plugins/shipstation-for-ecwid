@@ -1,6 +1,9 @@
 ** ShipStation for Ecwid ***
 
-2013.03.14 - version 2.0
+2014.04.03 - version 2.1
+ * OpenSSL patch
+
+ 2013.03.14 - version 2.0
  * Initial release to Wordpress.org
 
 2013.03.05 - version 2.0

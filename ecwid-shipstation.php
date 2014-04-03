@@ -3,7 +3,7 @@
 Plugin Name: ShipStation for Ecwid Bridge
 Plugin URI: mailto:dev@ribbedtee.com
 Description: Provides ShipStation Support on Ecwid Stores. Acts as a bridge between Ecwid and ShipStation.
-Version: 2.0
+Version: 2.1
 Author: RTD LLC Development
 Author URI: http://ribbedtee.com/ 
 */

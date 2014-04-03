@@ -223,7 +223,7 @@ class Ecwid_SS_Handler {
 		//POST using php functions
 		$params = array( 'http' => array(
 			'header' => 'Content-type: application/x-www-form-urlencoded', 
-			'method' => 'post', 
+			'method' => 'POST', 
 			'content' => $data ) 
 		);
 		$context = stream_context_create( $params );
